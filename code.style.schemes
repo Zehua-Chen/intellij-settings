@@ -1,0 +1,23 @@
+<application>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value version="173">
+        <option name="RIGHT_MARGIN" value="100" />
+        <JavaCodeStyleSettings>
+          <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+            <value>
+              <package name="java.awt" withSubpackages="false" static="false" />
+              <package name="java.util" withSubpackages="true" static="false" />
+              <package name="java.io" withSubpackages="true" static="false" />
+              <package name="javax.swing" withSubpackages="false" static="false" />
+            </value>
+          </option>
+        </JavaCodeStyleSettings>
+        <codeStyleSettings language="JAVA">
+          <option name="RIGHT_MARGIN" value="100" />
+        </codeStyleSettings>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+  </component>
+</application>
